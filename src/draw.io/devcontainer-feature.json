@@ -1,0 +1,30 @@
+{
+  "dependsOn": {
+    "ghcr.io/40docs/devcontainer-features/preinstall-extensions": {
+      "extensions": [
+        "hediet.vscode-drawio"
+      ]
+    },
+    "ghcr.io/devcontainers-extra/features/apt-packages": {
+      "packages": [
+        "libnotify4",
+        "libappindicator3-1",
+        "libdbusmenu-glib4",
+        "libdbusmenu-gtk3-4",
+        "libgl1-mesa-dri",
+        "libgl1-mesa-glx",
+        "libglx-mesa0",
+        "libvulkan1",
+        "mesa-utils",
+        "mesa-utils-bin",
+        "mesa-vulkan-drivers",
+        "xdg-utils"
+      ]
+    },
+    "ghcr.io/devcontainers-extra/features/curl-apt-get": {}
+  },
+  "description": "draw.io",
+  "id": "draw.io",
+  "name": "draw.io",
+  "version": "0.0.9"
+}

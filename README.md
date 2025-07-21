@@ -1,3 +1,1 @@
-# features
-
-foo
+# devcontainer features
