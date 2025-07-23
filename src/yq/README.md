@@ -7,7 +7,7 @@ Install yq
 
 ```json
 "features": {
-    "ghcr.io/40docs/devcontainer_features/yq:0": {}
+    "ghcr.io/40docs/devcontainer-features/yq:0": {}
 }
 ```
 
@@ -17,4 +17,4 @@ Install yq
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/40docs/devcontainer_features/blob/main/src/yq/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/40docs/devcontainer-features/blob/main/src/yq/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
