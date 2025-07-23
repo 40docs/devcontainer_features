@@ -7,7 +7,7 @@ Update Conda and initialize shell
 
 ```json
 "features": {
-    "ghcr.io/40docs/devcontainer_features/update-conda:0": {}
+    "ghcr.io/40docs/devcontainer-features/update-conda:0": {}
 }
 ```
 
@@ -17,4 +17,4 @@ Update Conda and initialize shell
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/40docs/devcontainer_features/blob/main/src/update-conda/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/40docs/devcontainer-features/blob/main/src/update-conda/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
