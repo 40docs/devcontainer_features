@@ -7,7 +7,7 @@ PostgreSQL is a powerful, open source object-relational database system with ove
 
 ```json
 "features": {
-    "ghcr.io/amerintlxperts/devcontainer-features/postgresql:1": {}
+    "ghcr.io/40docs/devcontainer_features/postgresql:1": {}
 }
 ```
 
@@ -27,4 +27,4 @@ PostgreSQL is a powerful, open source object-relational database system with ove
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/amerintlxperts/devcontainer-features/blob/main/src/postgresql/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/40docs/devcontainer_features/blob/main/src/postgresql/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._

@@ -7,7 +7,7 @@ Installs the BFG Repo-Cleaner, a tool for cleaning Git repositories.
 
 ```json
 "features": {
-    "ghcr.io/amerintlxperts/devcontainer-features/git-bfg-cleaner:1": {}
+    "ghcr.io/40docs/devcontainer_features/git-bfg-cleaner:1": {}
 }
 ```
 
@@ -21,4 +21,4 @@ Installs the BFG Repo-Cleaner, a tool for cleaning Git repositories.
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/amerintlxperts/devcontainer-features/blob/main/src/git-bfg-cleaner/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/40docs/devcontainer_features/blob/main/src/git-bfg-cleaner/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
