@@ -1,4 +1,6 @@
 #!/bin/env bash
+#
+
 set -e
 
 EXTENSIONS="${EXTENSIONS:-undefined}"
