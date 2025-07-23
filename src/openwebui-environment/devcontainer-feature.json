@@ -6,5 +6,5 @@
     "ghcr.io/devcontainers/features/anaconda"
   ],
   "name": "OpenWeb UI Python Environment",
-  "version": "0.0.7"
+  "version": "0.0.8"
 }
