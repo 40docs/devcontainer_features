@@ -7,7 +7,7 @@
             "database": "postgres",
             "driver": "PostgreSQL",
             "name": "Container database",
-            "password": "postgres",
+            "password": "${env:POSTGRES_PASSWORD}",
             "port": 5432,
             "previewLimit": 50,
             "server": "localhost",
