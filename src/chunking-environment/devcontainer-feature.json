@@ -8,5 +8,5 @@
     "ghcr.io/devcontainers/features/common-utils"
   ],
   "name": "Chunking Python Environment",
-  "version": "0.0.12"
+  "version": "0.0.13"
 }

@@ -5,5 +5,5 @@
   "description": "A project to abstract the gathering, transformations, and rendering of datasets from Lacework into auto-generated reports.",
   "id": "lacework-extensible-reporting",
   "name": "Lacework Extensible Report Generator",
-  "version": "0.0.9"
+  "version": "0.0.10"
 }
